@@ -1,5 +1,5 @@
 <template>
-  <div class="min-h-screen flex items-center justify-center bg-gray-100">
+  <div class="min-h-screen flex items-center justify-center bg-gray-700">
     <button
       class="bg-blue-600 hover:bg-blue-700 text-white font-bold py-3 px-6 rounded"
       @click="goToCreate"
